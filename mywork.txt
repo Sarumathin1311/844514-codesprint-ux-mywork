@@ -1,0 +1,17 @@
+My Associate ID: 844514
+
+Other team members:
+844536,844514,844539,844535,844588
+
+Team lead: 844588
+
+My Role:
+1. In developing the Home page with rounded logo and navbar with a button pointing to next page in angular.
+2. Also included nav bar and implemented routing for all the components.
+3. Added CSS styles.
+
+My development components:
+1.app.component
+2.navbar.component
+3.home-component.component
+4.app-routing.module
